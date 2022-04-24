@@ -11,7 +11,7 @@ class HomePage extends StatefulWidget {
 }
 
 class _HomePageState extends State<HomePage> {
-  // O concento de Stateless é não ter estado.
+  // O conceito de Stateless é não ter estado.
   var count = 0;
 
   void increment() {
